@@ -105,7 +105,7 @@ cd $HOME && cd pipe
 
 ### 6. Signup by refferral
 ```
-./pop --signup-by-referral-route 997aaf49d839879d
+./pop --signup-by-referral-route 9e7fdf4148478a67
 ```
 
 ### 7. Check health
