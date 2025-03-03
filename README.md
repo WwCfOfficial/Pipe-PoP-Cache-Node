@@ -56,11 +56,8 @@ chmod +x pop
 
 ### 4. Create systemd file
 We create a systemd file to run the node by entering the following command.
-<<<<<<< HEAD
+
 * `--ram 4`: Replace `4` with your favorite Ram you want to allocate. (e.g., `4` for 4GB).
-=======
-* `--ram 4`: Replace `4` with your favorite Ram you want to allocate. (e.g., `4` for 8GB).
->>>>>>> c150690d4e12b8504ed072d7522dda55c2e4928d
 * `--max-disk 200`: Replace `200` with the hard disk you want to allocate. (e.g., `200` for 200GB).
 * `--pubKey SOLADDRESS`: Replace `SOLADDRESS` with your Solana Public Address. (You can use your old node generated Sol address)
 ```
